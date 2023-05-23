@@ -1,4 +1,5 @@
 //java program to search
+//
 class LinearSearch{
     LinearSearch(int element,int[] array){
         int i=-1;
